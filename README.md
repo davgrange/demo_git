@@ -1,2 +1,3 @@
 # demo_git
-mo
+Une démo de git
+J'étoffe un peu le readme
